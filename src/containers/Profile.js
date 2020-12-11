@@ -6,6 +6,7 @@ import List from "../components/List/List";
 const ProfileWrapper = styled.div`
   width: 50%;
   margin: 10px auto;
+  margin-top: 10px;
 `;
 
 const Avatar = styled.img`
